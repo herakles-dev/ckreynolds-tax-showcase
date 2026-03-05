@@ -3,7 +3,7 @@
 **Full-stack SaaS platform** for a tax preparation business (IRS Enrolled Agent). Production client project — source code is private, this repo showcases the architecture, security posture, and technical decisions.
 
 **Status:** Production-ready. 15 sprints shipped + 8-phase security audit passed.
-**Built by:** [D. Michael Piscitelli](https://github.com/HeraclesBass) | [herakles.dev](https://herakles.dev)
+**Built by:** [D. Michael Piscitelli](https://github.com/herakles-dev) | [herakles.dev](https://herakles.dev)
 
 ---
 
@@ -388,4 +388,4 @@ If you're evaluating my work, the best way to see it in action is to visit [hera
 
 ---
 
-**Built by** [D. Michael Piscitelli](https://github.com/HeraclesBass) — Full-stack engineer, Chicago IL
+**Built by** [D. Michael Piscitelli](https://github.com/herakles-dev) — Full-stack engineer, Chicago IL
